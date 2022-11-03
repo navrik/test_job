@@ -1,1 +1,1 @@
-# This is test job for an assessment. Maybe not fully completed but main idea should be understandable.
+# This is test job for an assessment. Not fully completed, because I haven't experience with some services eg. Fargate tasks, but main idea should be understandable.
